@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "montserrat";
+}
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+#niv{
+    width: 100%;
+    height: 70%;
+    background-image: url(https://cdn.wallpapersafari.com/49/55/leCodV.jpg);
+    background-size: cover;
+    background-position: left;
+
+}
+#overlay{
+    
+    width: 100%;
+    height: 100%;
+    background-color: rgba(8, 8, 8, 0.452);
+}
+#hola{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    padding-left: 900px;
+    padding-right: 200px;
+    width: 100%;
+    height: 40px;
+    background-color: rgba(194, 192, 192, 0.39);
+}
+#hola h5{
+
+    
+    color: whitesmoke ;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+#hola i{
+    color: whitesmoke;
+}
+#overlay h1{
+    position: absolute;
+    top: 35%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    color: rgba(255, 255, 255, 0.048);
+    font-size: 180px;
+    font-weight: 600;
+}
+#overlay h3{
+    position: absolute;
+    top: 35%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    color: rgba(233, 232, 232, 0.815);
+    font-weight: 500;
+    font-size: 35px;
+}
+#overlay button{
+    position: absolute;
+    top: 48%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+    width: 190px;
+    height: 38px;
+    background-color: rgba(255, 255, 255, 0.596);
+    border-radius: 30px;
+    border: 1.5px solid rgba(0, 0, 0, 0.726);
+    font-weight: 600;
+
+}
+#anjali{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 1100px;
+    padding-right: 50px;
+    
+    width: 100%;
+    height: 30%;
+    background-color: rgba(139, 139, 139, 0.726);
+}
+#khushi{
+
+    width: 60%;
+    height: 80%;
+    background-image: url(https://images.unsplash.com/photo-1528489496900-d841974f5290?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+    background-position: center;
+    background-size: cover;
+}
+#avni{
+    width: 60%;
+    height: 80%;
+    background-image: url(https://images.unsplash.com/photo-1586191017650-a7d6d298b0bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+    background-position: center;
+    background-size: cover;
+}
+#overlay2{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(32, 23, 151, 0.185);
+}
+#anjali h2{
+    position: absolute;
+    left: 0px;
+    top: 65%;
+    
+    padding: 60px;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+#anjali h3{
+    position: absolute;
+    left: 0px;
+    top: 68%;
+    font-weight: 700;
+    padding: 60px;
+    font-size: 12px;
+
+}
+#anjali p{
+    position: absolute;
+    left: 0px;
+    top: 72%;
+    font-weight: 400;
+    font-size: 10px;
+    padding: 60px;
+
+
+}
+#anjali button{
+    position: absolute;
+    left: 60px;
+    top: 94%;
+    width: 100px;
+    height: 30px;
+    background-color: rgba(66, 66, 66, 0.815);
+   font-weight: 300;
+   color: cornsilk;
+   font-size: 10px;
+   border: 1.4px solid rgb(87, 86, 86);
+   border-radius: 10px;
+   
+    
+   
+}
+ 
+
+
+
+
+
+
+
